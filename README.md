@@ -1,2 +1,4 @@
-# Queue
-ArrayList and Linked List implementation
+## Queue
+
+Using Generic tempalates implemented Queue;
+---  Used of ArrayList and Linked List Implemented.
